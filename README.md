@@ -249,7 +249,7 @@ Compare to the unauthenticated scan now we can see more vulnerability showed up 
 <br />
 
 <p align="Center">
-Every vulnerability has a risk score and rating and we can see the outdated application we have installed earlies also showed up in the scans result<br/>
+Every vulnerability has a risk score and rating and we can see the outdated application we have installed earlier also showed up in the scans result<br/>
 <img src="https://i.postimg.cc/zGbNPq9y/Image-42.png" height="80%" width="80%" />
 <br />
 <br />
